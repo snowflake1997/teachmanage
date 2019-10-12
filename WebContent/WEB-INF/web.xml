@@ -2,7 +2,7 @@
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
   <display-name>ssms</display-name>
   <listener>
-  	<listener-class>com.lizhou.listener.SystemInitListener</listener-class>
+  	<listener-class>com.tmh.listener.SystemInitListener</listener-class>
   </listener>
   
   <welcome-file-list>
@@ -20,7 +20,7 @@
   <filter>
     <description>字符编码过滤器</description>
     <filter-name>EncodeFilter</filter-name>
-    <filter-class>com.lizhou.filter.EncodeFilter</filter-class>
+    <filter-class>com.tmh.filter.EncodeFilter</filter-class>
   </filter>
   <filter-mapping>
     <filter-name>EncodeFilter</filter-name>
@@ -29,7 +29,7 @@
   <filter>
     <description>访问控制</description>
     <filter-name>VisitFilter</filter-name>
-    <filter-class>com.lizhou.filter.VisitFilter</filter-class>
+    <filter-class>com.tmh.filter.VisitFilter</filter-class>
   </filter>
   <filter-mapping>
     <filter-name>VisitFilter</filter-name>
@@ -45,7 +45,7 @@
   <servlet>
     <description>登录</description>
     <servlet-name>LoginServlet</servlet-name>
-    <servlet-class>com.lizhou.servlet.LoginServlet</servlet-class>
+    <servlet-class>com.tmh.servlet.LoginServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>LoginServlet</servlet-name>
@@ -54,7 +54,7 @@
   <servlet>
     <description>传照片</description>
     <servlet-name>PhotoServlet</servlet-name>
-    <servlet-class>com.lizhou.servlet.PhotoServlet</servlet-class>
+    <servlet-class>com.tmh.servlet.PhotoServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>PhotoServlet</servlet-name>
@@ -63,7 +63,7 @@
   <servlet>
     <description>学生信息管理</description>
     <servlet-name>StudentServlet</servlet-name>
-    <servlet-class>com.lizhou.servlet.StudentServlet</servlet-class>
+    <servlet-class>com.tmh.servlet.StudentServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>StudentServlet</servlet-name>
@@ -72,7 +72,7 @@
   <servlet>
     <description>教师信息管理</description>
     <servlet-name>TeacherServlet</servlet-name>
-    <servlet-class>com.lizhou.servlet.TeacherServlet</servlet-class>
+    <servlet-class>com.tmh.servlet.TeacherServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>TeacherServlet</servlet-name>
@@ -81,7 +81,7 @@
   <servlet>
     <description>年级</description>
     <servlet-name>GradeServlet</servlet-name>
-    <servlet-class>com.lizhou.servlet.GradeServlet</servlet-class>
+    <servlet-class>com.tmh.servlet.GradeServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>GradeServlet</servlet-name>
@@ -90,7 +90,7 @@
   <servlet>
     <description>班级</description>
     <servlet-name>ClazzServlet</servlet-name>
-    <servlet-class>com.lizhou.servlet.ClazzServlet</servlet-class>
+    <servlet-class>com.tmh.servlet.ClazzServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>ClazzServlet</servlet-name>
@@ -99,7 +99,7 @@
   <servlet>
     <description>课程</description>
     <servlet-name>CourseServlet</servlet-name>
-    <servlet-class>com.lizhou.servlet.CourseServlet</servlet-class>
+    <servlet-class>com.tmh.servlet.CourseServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>CourseServlet</servlet-name>
@@ -108,7 +108,7 @@
   <servlet>
     <description>系统</description>
     <servlet-name>SystemServlet</servlet-name>
-    <servlet-class>com.lizhou.servlet.SystemServlet</servlet-class>
+    <servlet-class>com.tmh.servlet.SystemServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>SystemServlet</servlet-name>
@@ -117,7 +117,7 @@
   <servlet>
     <description>考试</description>
     <servlet-name>ExamServlet</servlet-name>
-    <servlet-class>com.lizhou.servlet.ExamServlet</servlet-class>
+    <servlet-class>com.tmh.servlet.ExamServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>ExamServlet</servlet-name>
@@ -126,7 +126,7 @@
   <servlet>
     <description>成绩</description>
     <servlet-name>ScoreServlet</servlet-name>
-    <servlet-class>com.lizhou.servlet.ScoreServlet</servlet-class>
+    <servlet-class>com.tmh.servlet.ScoreServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>ScoreServlet</servlet-name>
