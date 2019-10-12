@@ -128,7 +128,7 @@
     </form>
   </div>
 </div>
-<div class="footer">Copyright &nbsp; SWU @ Lizhou </div>
+<div class="footer">Copyright &nbsp; SWU @ tmh </div>
 
 
 </body>
