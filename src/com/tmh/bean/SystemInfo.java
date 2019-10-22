@@ -2,7 +2,6 @@ package com.tmh.bean;
 
 /**
  * 系统初始化的一些信息
- * @author bojiangzhou
  *
  */
 public class SystemInfo {

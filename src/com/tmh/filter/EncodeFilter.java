@@ -13,8 +13,6 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * 设置request的编码
- * @author bojiangzhou
- *
  */
 public class EncodeFilter implements Filter {
 

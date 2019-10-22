@@ -16,8 +16,6 @@ import com.tmh.tools.StringTool;
 
 /**
  * 课程
- * @author bojiangzhou
- *
  */
 public class CourseServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;

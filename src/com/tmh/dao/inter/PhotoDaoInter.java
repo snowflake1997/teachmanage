@@ -8,8 +8,6 @@ import com.tmh.bean.User;
 
 /**
  * 上传照片
- * @author bojiangzhou
- *
  */
 public interface PhotoDaoInter {
 	

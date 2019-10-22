@@ -8,8 +8,6 @@ import com.tmh.bean.Exam;
 
 /**
  * 操作成绩的数据层接口
- * @author bojiangzhou
- *
  */
 public interface ScoreDaoInter extends BaseDaoInter {
 	

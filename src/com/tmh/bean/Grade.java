@@ -3,11 +3,6 @@ package com.tmh.bean;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- * 年级类
- * @author bojiangzhou
- *
- */
 public class Grade {
 	
 	private int id; //ID

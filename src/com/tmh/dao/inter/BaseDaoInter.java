@@ -4,11 +4,6 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.List;
 
-/**
- * 基础dao
- * @author bojiangzhou
- *
- */
 @SuppressWarnings("rawtypes")
 public interface BaseDaoInter {
 	

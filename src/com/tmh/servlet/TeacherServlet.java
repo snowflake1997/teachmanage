@@ -33,8 +33,6 @@ import net.sf.json.JSONObject;
 
 /**
  * 教师类Servlet
- * @author bojiangzhou
- *
  */
 public class TeacherServlet extends HttpServlet {
 	

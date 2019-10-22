@@ -21,11 +21,7 @@ import com.tmh.dao.inter.ExamDaoInter;
 import com.tmh.dao.inter.StudentDaoInter;
 import com.tmh.tools.MysqlTool;
 
-/**
- * 
- * @author bojiangzhou
- *
- */
+
 public class ExamDaoImpl extends BaseDaoImpl implements ExamDaoInter {
 
 	public List<Exam> getExamList(String sql, List<Object> param) {

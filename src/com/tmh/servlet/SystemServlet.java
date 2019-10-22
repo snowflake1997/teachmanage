@@ -22,8 +22,6 @@ import com.tmh.tools.VCodeGenerator;
 
 /**
  * 系统类
- * @author bojiangzhou
- *
  */
 public class SystemServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;

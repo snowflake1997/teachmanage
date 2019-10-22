@@ -5,7 +5,6 @@ import java.util.List;
 
 /**
  * 班级类
- * @author bojiangzhou
  *
  */
 public class Clazz {

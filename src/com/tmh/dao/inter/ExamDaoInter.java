@@ -6,8 +6,6 @@ import com.tmh.bean.Exam;
 
 /**
  * 操作学生的数据层接口
- * @author bojiangzhou
- *
  */
 public interface ExamDaoInter extends BaseDaoInter {
 	

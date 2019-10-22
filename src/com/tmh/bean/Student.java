@@ -2,11 +2,7 @@ package com.tmh.bean;
 
 import java.util.List;
 
-/**
- * 学生类
- * @author bojiangzhou
- *
- */
+
 public class Student {
 	
 	private int id; //ID

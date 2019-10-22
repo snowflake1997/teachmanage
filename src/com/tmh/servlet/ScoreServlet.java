@@ -30,8 +30,6 @@ import net.sf.json.JSONObject;
 
 /**
  * 成绩类Servlet
- * @author bojiangzhou
- *
  */
 public class ScoreServlet extends HttpServlet {
 	

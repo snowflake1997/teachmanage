@@ -28,8 +28,6 @@ import net.sf.json.JSONObject;
 
 /**
  * 教师类服务层
- * @author bojiangzhou
- *
  */
 public class TeacherService {
 	

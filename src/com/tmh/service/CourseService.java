@@ -24,7 +24,6 @@ import net.sf.json.JsonConfig;
 
 /**
  * 课程服务层
- * @author bojiangzhou
  *
  */
 public class CourseService {

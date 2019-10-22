@@ -7,8 +7,6 @@ import com.tmh.bean.Student;
 
 /**
  * 操作学生的数据层接口
- * @author bojiangzhou
- *
  */
 public interface StudentDaoInter extends BaseDaoInter {
 	

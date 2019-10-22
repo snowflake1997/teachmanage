@@ -15,8 +15,6 @@ import com.tmh.bean.User;
 
 /**
  * 如果用户没有登录，返回登录界面
- * @author bojiangzhou
- *
  */
 public class VisitFilter implements Filter {
 

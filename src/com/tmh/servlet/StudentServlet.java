@@ -25,8 +25,6 @@ import com.tmh.tools.StringTool;
 
 /**
  * 学生类Servlet
- * @author bojiangzhou
- *
  */
 public class StudentServlet extends HttpServlet {
 	

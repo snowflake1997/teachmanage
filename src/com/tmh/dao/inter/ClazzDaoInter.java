@@ -7,8 +7,6 @@ import com.tmh.bean.Page;
 
 /**
  * 班级数据层接口
- * @author bojiangzhou
- *
  */
 public interface ClazzDaoInter extends BaseDaoInter {
 	

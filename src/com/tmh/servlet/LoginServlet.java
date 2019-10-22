@@ -16,8 +16,6 @@ import com.tmh.tools.VCodeGenerator;
 
 /**
  * 验证码
- * @author bojiangzhou
- *
  */
 public class LoginServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;

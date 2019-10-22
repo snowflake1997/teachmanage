@@ -18,8 +18,6 @@ import net.sf.json.JSONObject;
 
 /**
  * 学生信息服务层
- * @author bojiangzhou
- *
  */
 public class StudentService {
 	

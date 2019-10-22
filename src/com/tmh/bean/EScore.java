@@ -2,7 +2,6 @@ package com.tmh.bean;
 
 /**
  * 考试成绩类
- * @author bojiangzhou
  *
  */
 public class EScore {

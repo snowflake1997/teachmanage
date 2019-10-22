@@ -17,8 +17,6 @@ import net.sf.json.JsonConfig;
 
 /**
  * 年级服务层
- * @author bojiangzhou
- *
  */
 public class SystemService {
 	

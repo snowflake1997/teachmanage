@@ -10,8 +10,6 @@ import com.tmh.dao.impl.BaseDaoImpl;
 
 /**
  * 系统初始化
- * @author bojiangzhou
- *
  */
 public class SystemInitListener implements ServletContextListener {
 

@@ -40,8 +40,6 @@ import net.sf.json.JSONObject;
 
 /**
  * 成绩类服务层
- * @author bojiangzhou
- *
  */
 public class ScoreService {
 	

@@ -2,7 +2,6 @@ package com.tmh.bean;
 
 /**
  * 课程类
- * @author bojiangzhou
  *
  */
 public class Course {

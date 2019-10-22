@@ -2,7 +2,6 @@ package com.tmh.bean;
 
 /**
  * 教师与课程的具体对应
- * @author bojiangzhou
  *
  */
 public class CourseItem {

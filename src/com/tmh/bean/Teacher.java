@@ -5,7 +5,6 @@ import java.util.List;
 
 /**
  * 教师类
- * @author bojiangzhou
  *
  */
 public class Teacher {

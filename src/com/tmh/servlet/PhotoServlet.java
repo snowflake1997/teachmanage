@@ -14,8 +14,6 @@ import com.tmh.tools.StringTool;
 
 /**
  * 上传照片Servlet
- * @author bojiangzhou
- *
  */
 public class PhotoServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;

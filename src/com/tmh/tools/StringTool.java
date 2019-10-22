@@ -4,8 +4,6 @@ import java.io.UnsupportedEncodingException;
 
 /**
  * 字符串工具类
- * @author bojiangzhou
- *
  */
 public class StringTool {
 	

@@ -8,8 +8,6 @@ import com.tmh.bean.Teacher;
 
 /**
  * 操作教师的数据层接口
- * @author bojiangzhou
- *
  */
 public interface TeacherDaoInter extends BaseDaoInter {
 	

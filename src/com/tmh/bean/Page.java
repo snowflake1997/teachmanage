@@ -1,10 +1,6 @@
 package com.tmh.bean;
 
-/**
- * 封装分页参数
- * @author bojiangzhou
- *
- */
+
 public class Page {
 	
 	/**

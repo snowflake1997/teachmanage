@@ -24,8 +24,6 @@ import com.tmh.tools.MysqlTool;
 
 /**
  * 教师数据层
- * @author bojiangzhou
- *
  */
 public class TeacherDaoImpl extends BaseDaoImpl implements TeacherDaoInter {
 

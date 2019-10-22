@@ -26,8 +26,6 @@ import com.tmh.dao.inter.PhotoDaoInter;
 
 /**
  * 上传照片
- * @author bojiangzhou
- *
  */
 public class PhotoService {
 	
